@@ -38,3 +38,10 @@ Designed for college projects, Java practice, and GUI development learning.
 
 ## 📁 Project Structure
 
+project/
+ ├─ src/
+ ├─ images/
+     ├─ background.jpg
+     └─ icon.png
+
+
